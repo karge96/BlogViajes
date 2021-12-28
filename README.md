@@ -2,7 +2,7 @@
 Es un blog viajes con información turística sobre algunos países, realizado con PHP, CSS Y JS. Es responsiva en distintos dispositivos
 
 
-##Images
+## Images
 
 
 ![image](https://user-images.githubusercontent.com/96382758/147603909-542732c5-8671-4339-b4e9-14536d329639.png)
